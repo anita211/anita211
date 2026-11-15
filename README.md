@@ -47,12 +47,4 @@
 | ☕ | [**jvm-classfile-interpreter**](https://github.com/anita211/jvm-classfile-interpreter) | Java 8 `.class` reader and interpreter written in C++ |
 | 🔢 | [**mnist-mlp-pytorch**](https://github.com/anita211/mnist-mlp-pytorch) | MLP experiments on MNIST in PyTorch (98% validation accuracy) |
 
-## 📊 Contributions
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anita211&background=FBEAF0&ring=D4537E&fire=D4537E&currStreakLabel=993556&sideLabels=72243E&sideNums=72243E&currStreakNum=72243E&dates=993556&stroke=F4C0D1&hide_border=true" alt="Anita's GitHub contribution streak"/>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,100:FBEAF0&height=100&section=footer" width="100%" alt=""/>
