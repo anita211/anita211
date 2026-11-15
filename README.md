@@ -9,7 +9,6 @@
 ## 🌸 About me
 
 - 🎓 Computer Engineering and Electrical Engineering student at the **University of Brasília (UnB)**
-- 🔌 I love building things where software meets hardware
 - 📡 Lately: LoRa sensor networks with ESP32, plus undergraduate research (PIBIC)
 - 💼 Intern at **CTA Smart**
 - 📍 Brasília, Brazil
