@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBEAF0,100:F4C0D1&height=180&section=header&text=Hi%2C%20I%27m%20Anita&fontColor=72243E&fontSize=42&fontAlignY=38&desc=Computer%20and%20Electrical%20Engineering%20%E2%80%A2%20UnB&descAlignY=60&descSize=16" width="100%" alt="Hi, I'm Anita"/>
 
+<a href="https://www.linkedin.com/in/anita-oliveira-unb/"><img src="https://img.shields.io/badge/LinkedIn-anita--oliveira--unb-F4C0D1?style=for-the-badge&logo=linkedin&logoColor=72243E&labelColor=FBEAF0" alt="LinkedIn"/></a>
+
 </div>
 
 ## 🌸 About me
@@ -9,7 +11,7 @@
 - 🎓 Computer Engineering and Electrical Engineering student at the **University of Brasília (UnB)**
 - 🔌 I love building things where software meets hardware
 - 📡 Lately: LoRa sensor networks with ESP32, plus undergraduate research (PIBIC)
-- 💼 **Open to internships** in embedded systems, hardware and IoT
+- 💼 Intern at **CTA Smart**
 - 📍 Brasília, Brazil
 
 ## 🎀 Tech stack
