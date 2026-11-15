@@ -6,9 +6,9 @@
 
 ## 🌸 About me
 
-- 🎓 Computer Engineering **and** Electrical Engineering student at the **University of Brasília (UnB)**
-- 🔌 I love building things where software meets hardware: **embedded systems, IoT and microcontrollers**
-- 📡 Lately: **LoRa** sensor networks with ESP32, plus undergraduate research (PIBIC)
+- 🎓 Computer Engineering and Electrical Engineering student at the **University of Brasília (UnB)**
+- 🔌 I love building things where software meets hardware
+- 📡 Lately: LoRa sensor networks with ESP32, plus undergraduate research (PIBIC)
 - 💼 **Open to internships** in embedded systems, hardware and IoT
 - 📍 Brasília, Brazil
 
